@@ -10,3 +10,9 @@
   * Rename `settings_sample.json` to `settings.json`
   * Open `settings.json` and insert your hipchat API (v2) key
   * `npm install`; `npm start`
+
+
+## TODO
+* Add better error handling
+* Add documentation on how to build scrapers and actions
+* Unit Tests
