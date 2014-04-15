@@ -1,4 +1,4 @@
-# Scraping Engine built on Node.js
+# Lightweight & Modular Scraping Example using Node.js
 
 ## Prerequisites
 
