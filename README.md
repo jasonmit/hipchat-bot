@@ -7,6 +7,6 @@
 ## FAQs
 
 * How do I use this?  Simple.
-** Rename `settings_sample.json` to `settings.json`
-** Open `settings.json` and insert your hipchat API (v2) key
-** `npm install`; `npm start`
+  * Rename `settings_sample.json` to `settings.json`
+  * Open `settings.json` and insert your hipchat API (v2) key
+  * `npm install`; `npm start`
