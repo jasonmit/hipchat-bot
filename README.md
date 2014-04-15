@@ -1,4 +1,4 @@
-# Light & modular scraper built on nodejs
+# Hipchat bot built on node.js
 
 ## Prerequisites
 
