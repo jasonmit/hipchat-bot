@@ -1,4 +1,4 @@
-# Lightweight & Modular Scraping Example using Node.js
+# Lightweight modular scraper built on nodejs
 
 ## Prerequisites
 
