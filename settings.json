@@ -1,8 +1,4 @@
 {
-    "hipbot": {
-        "rooms": ["Ember.js"],
-        "key": "API_KEY"
-    },
     "binding": {
         "hipbot": ["emberjs-version", "emberjs-blog"]
     }

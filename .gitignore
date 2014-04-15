@@ -20,5 +20,4 @@ Thumbs.db
 /*.iml
 /.bower-cache
 npm-debug.log
-settings.json
 test-results.xml
