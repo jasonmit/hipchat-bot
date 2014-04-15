@@ -1,4 +1,4 @@
-# Lightweight modular scraper built on nodejs
+# Light & modular scraper built on nodejs
 
 ## Prerequisites
 
