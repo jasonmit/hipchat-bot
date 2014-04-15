@@ -1,6 +1,6 @@
 {
   "name": "lightweight-scraper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An extremely lightweight scraping framework.",
   "main": "lib/app.js",
   "scripts": {
