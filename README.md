@@ -10,7 +10,7 @@
   * Rename `conf/hipbot_sample.json` to `conf/hipbot.json`
   * Open `conf/hipbot.json` and insert your hipchat API (v2) key
   * `npm install`; `npm start`
-  * Sit back and wait.  Whenever emberjs.com updates their blog or version your hipchat channel will be alerted
+  * Sit back and wait.  Whenever emberjs.com updates their blog or releases a new stable build, your hipchat channel will be alerted
 
 
 ## TODO
