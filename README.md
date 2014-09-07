@@ -1,4 +1,5 @@
 # Hipchat bot built on node.js
+### Built as a very quick hack to add notification alerts over hipchat for ember blog posts and updates.
 
 ## Prerequisites
 
